@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
 
-TODO: Document your project here
+# Welcome to my project
+g_website
+practice web design
